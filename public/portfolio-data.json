@@ -1,205 +1,162 @@
 {
-  "brand": "Alex Morgan",
+  "brand": "SAURAV SHANKAR.",
   "profile": {
-    "name": "Alex Morgan",
-    "initials": "AM",
-    "title": "Business Analyst • Software Engineer",
-    "tagline": "Bridging business strategy with technical execution.",
-    "summary": "Versatile professional with 6+ years of experience translating complex business requirements into scalable digital products. Comfortable across the full delivery lifecycle — from stakeholder workshops and process modeling to API design and front-end implementation. I help teams ship the right thing, faster.",
-    "location": "New York, NY (Open to Remote)",
-    "email": "alex.morgan@example.com",
-    "phone": "+1 (555) 123-4567"
+    "name": "SAURAV SHANKAR.",
+    "initials": "SS",
+    "title": "Computer Science",
+    "tagline": "Computer Science",
+    "summary": "SAURAV SHANKAR is a Computer Science undergraduate specializing in Data Analytics with a strong foundation in Python, SQL, and C++. He is experienced in building projects under tight deadlines through hackathons and is eager to apply analytical skills and technical knowledge to solve real-world data problems. He is a skilled developer with a strong passion for data analysis and problem-solving.",
+    "location": "New Delhi",
+    "email": "sauravshankar2911@gmail.com",
+    "phone": "+91 8595767831"
   },
   "nav": [
-    { "label": "About", "href": "#about" },
-    { "label": "Experience", "href": "#experience" },
-    { "label": "Education", "href": "#education" },
-    { "label": "Projects", "href": "#projects" },
-    { "label": "Skills", "href": "#skills" },
-    { "label": "Certifications", "href": "#certifications" }
-  ],
-  "experiences": [
     {
-      "id": "exp-1",
-      "role": "Senior Business Analyst",
-      "company": "Northwind Consulting",
-      "location": "New York, NY",
-      "start": "Mar 2022",
-      "end": "Present",
-      "current": true,
-      "stack": ["SQL", "Tableau", "Jira", "Azure"],
-      "bullets": [
-        "Led requirements discovery for a $4M enterprise CRM migration impacting 800+ users across 3 regions.",
-        "Built executive dashboards that reduced weekly reporting effort from 12 hours to under 2 hours.",
-        "Coached a team of 4 junior analysts on stakeholder management and process modeling best practices."
-      ]
+      "label": "About",
+      "href": "#about"
     },
     {
-      "id": "exp-2",
-      "role": "Software Engineer",
-      "company": "Lumen Labs",
-      "location": "Remote",
-      "start": "Jul 2020",
-      "end": "Feb 2022",
-      "stack": ["TypeScript", "React", "Node.js", "PostgreSQL"],
-      "bullets": [
-        "Designed and shipped an internal tooling platform used daily by 200+ operations staff.",
-        "Reduced p95 API latency by 38% by introducing caching, pagination, and query optimization.",
-        "Owned end-to-end delivery: RFC, implementation, observability, and on-call rotation."
-      ]
+      "label": "Experience",
+      "href": "#experience"
     },
     {
-      "id": "exp-3",
-      "role": "Business Analyst",
-      "company": "Meridian Financial",
-      "location": "Boston, MA",
-      "start": "Aug 2018",
-      "end": "Jun 2020",
-      "stack": ["Excel", "Power BI", "SQL"],
-      "bullets": [
-        "Authored BRD/FRD documents for a digital onboarding flow that lifted conversion by 17%.",
-        "Partnered with compliance and engineering to roll out a new KYC workflow in 4 markets."
-      ]
+      "label": "Education",
+      "href": "#education"
     },
     {
-      "id": "exp-4",
-      "role": "Junior Analyst (Intern)",
-      "company": "Cascade Insights",
-      "location": "Boston, MA",
-      "start": "May 2017",
-      "end": "Jul 2018",
-      "bullets": [
-        "Automated weekly KPI rollups, eliminating ~10 hours of manual work per cycle.",
-        "Supported client workshops and translated findings into actionable product briefs."
-      ]
+      "label": "Projects",
+      "href": "#projects"
+    },
+    {
+      "label": "Skills",
+      "href": "#skills"
+    },
+    {
+      "label": "Certifications",
+      "href": "#certifications"
     }
   ],
+  "experiences": [],
   "education": [
     {
-      "id": "edu-1",
-      "degree": "M.S. in Information Systems",
-      "institution": "Northeastern University",
-      "location": "Boston, MA",
-      "start": "2018",
-      "end": "2020",
-      "gpa": "3.9 / 4.0",
-      "details": "Coursework in data warehousing, distributed systems, and product management. Capstone on decision-support dashboards for mid-market finance teams."
-    },
-    {
-      "id": "edu-2",
-      "degree": "B.S. in Business Administration",
-      "institution": "Boston University",
-      "location": "Boston, MA",
-      "start": "2014",
-      "end": "2018",
-      "gpa": "3.7 / 4.0",
-      "details": "Minor in Computer Science. Concentration in Operations & Information Management."
+      "id": "cmra9elkb0012nlckgfcdrin3",
+      "degree": "B.Tech in Computer Science",
+      "institution": "SRM University Amravati",
+      "location": "",
+      "start": "2024-06-01",
+      "end": "2028-06-01",
+      "details": "",
+      "gpa": "9.2 / 10.0"
     }
   ],
   "projects": [
     {
-      "id": "proj-1",
-      "title": "Insight Hub",
-      "description": "Self-serve analytics portal for non-technical stakeholders. Drag-and-drop dashboards, scheduled email reports, and role-based access control.",
-      "tags": ["Next.js", "TypeScript", "PostgreSQL", "D3.js"],
-      "highlights": [
-        "40+ active internal users",
-        "Cut ad-hoc data requests by ~60%"
-      ]
+      "id": "cmra9elsi0013nlck9w0kwges",
+      "title": "LegalKlarity",
+      "description": "Developed a Python-based content analysis microservice utilizing Generative AI to process and demystify complex legal jargon, directly addressing information asymmetry for non-expert users. Architected an NLP pipeline that extracts and summarizes critical clauses to help users identify potential financial risks in contracts. Integrated a Firebase database to store processed document insights, enabling fast retrieval and analysis of user queries.",
+      "tags": [
+        "Python",
+        "Google Cloud GenAI",
+        "NLP",
+        "Firebase"
+      ],
+      "highlights": []
     },
     {
-      "id": "proj-2",
-      "title": "OpsFlow",
-      "description": "Lightweight workflow automation tool for operations teams. Visual rule builder, audit log, and integrations with Slack and Jira.",
-      "tags": ["React", "Node.js", "Express", "Redis"],
-      "highlights": [
-        "Replaced 3 internal spreadsheets",
-        "Used daily by 6 ops teams"
-      ]
-    },
-    {
-      "id": "proj-3",
-      "title": "KYC Modernization",
-      "description": "End-to-end redesign of a manual KYC process. New digital intake, automated document checks, and a case-management console for reviewers.",
-      "tags": ["Product", "Compliance", "Process Design"],
-      "highlights": ["Reduced onboarding time from 5 days to under 1 day"]
-    },
-    {
-      "id": "proj-4",
-      "title": "Career Compass",
-      "description": "Open-source resume and portfolio analyzer that scores readability, structure, and ATS-friendliness.",
-      "tags": ["TypeScript", "Next.js", "Tailwind"]
+      "id": "cmra9elsi0014nlckznprciw5",
+      "title": "SwacchSetu",
+      "description": "Engineered a sustainable supply chain platform connecting waste generators with composters, utilizing the OpenCage Geocoding API to perform proximity-based spatial analysis for optimized pickup logistics. Designed and implemented a normalized MySQL database schema to manage complex relationships between households, businesses, and farmers, ensuring data integrity for order tracking. Built the backend logic to track and visualize waste diversion metrics, creating a data-driven circular economy model that quantifies organic waste recycling efficiency.",
+      "tags": [
+        "Python",
+        "FastAPI",
+        "MySQL",
+        "OpenCage Geocoding API"
+      ],
+      "highlights": []
     }
   ],
   "skills": [
     {
-      "category": "Product & Analysis",
+      "category": "Languages",
       "skills": [
-        { "name": "Requirements Engineering" },
-        { "name": "Stakeholder Management" },
-        { "name": "Process Modeling (BPMN)" },
-        { "name": "User Stories & Roadmaps" }
+        {
+          "name": "Python"
+        },
+        {
+          "name": "SQL"
+        },
+        {
+          "name": "C++"
+        },
+        {
+          "name": "JavaScript"
+        }
       ]
     },
     {
-      "category": "Frontend",
+      "category": "Libraries",
       "skills": [
-        { "name": "React / Next.js" },
-        { "name": "TypeScript" },
-        { "name": "Tailwind CSS" },
-        { "name": "Accessibility (WCAG)" }
+        {
+          "name": "NumPy"
+        },
+        {
+          "name": "Pandas"
+        },
+        {
+          "name": "Matplotlib"
+        }
       ]
     },
     {
       "category": "Backend",
       "skills": [
-        { "name": "Node.js" },
-        { "name": "PostgreSQL / SQL" },
-        { "name": "REST & GraphQL APIs" },
-        { "name": "System Design" }
+        {
+          "name": "Flask"
+        },
+        {
+          "name": "FastAPI"
+        }
       ]
     },
     {
-      "category": "Tools & Platforms",
+      "category": "Databases & Querying",
       "skills": [
-        { "name": "Git & CI/CD" },
-        { "name": "Jira / Confluence" },
-        { "name": "Tableau / Power BI" },
-        { "name": "Azure / AWS (basic)" }
+        {
+          "name": "MySQL"
+        },
+        {
+          "name": "Firebase"
+        }
+      ]
+    },
+    {
+      "category": "Developer Tools",
+      "skills": [
+        {
+          "name": "Git"
+        },
+        {
+          "name": "GitHub"
+        },
+        {
+          "name": "VS Code"
+        },
+        {
+          "name": "JetBrains IDEs"
+        }
       ]
     }
   ],
   "certifications": [
     {
-      "id": "cert-1",
-      "name": "Certified Scrum Product Owner (CSPO)",
-      "issuer": "Scrum Alliance",
-      "date": "2023",
-      "credentialId": "SA-XXXXXXX"
-    },
-    {
-      "id": "cert-2",
-      "name": "AWS Cloud Practitioner",
-      "issuer": "Amazon Web Services",
-      "date": "2022",
-      "credentialId": "AWS-XXXXXXX"
-    },
-    {
-      "id": "cert-3",
-      "name": "IIBA Entry Certificate in Business Analysis (ECBA)",
-      "issuer": "IIBA",
-      "date": "2021",
-      "credentialId": "IIBA-XXXXXXX"
-    },
-    {
-      "id": "cert-4",
-      "name": "Google Data Analytics Professional Certificate",
-      "issuer": "Coursera / Google",
-      "date": "2020"
+      "id": "cmra9em93001knlck1enukmw9",
+      "name": "MongoDB Certified: Associate Developer & Associate Data Modeler",
+      "issuer": "MongoDB",
+      "date": "2026-04-01"
     }
   ],
   "footer": {
-    "copyright": "© {year} Alex Morgan. All rights reserved.",
-    "note": "Built with the Professional Corporate Template — modular, reusable, and ready for the template marketplace."
+    "copyright": "© 2026 SAURAV SHANKAR.",
+    "note": "Generated with Portfolio Builder"
   }
 }
